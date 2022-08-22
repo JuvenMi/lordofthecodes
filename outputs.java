@@ -1,6 +1,7 @@
 package post;
 
 public class outputs {
+    //çıktı kodlarımız. Denemek isterseniz inceleyip kendinizin yazmasını tavsiye ederim.
     public static void main(String[] args) {
         System.out.print("lord of the codes");
         System.out.print("takip edip beğenmeyi unutmayın");
